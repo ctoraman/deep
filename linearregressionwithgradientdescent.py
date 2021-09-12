@@ -7,6 +7,11 @@ Original file is located at
     https://colab.research.google.com/drive/1wYrrqAnsgHssiWzZrn2k44Y-v-zOM1c8
 """
 
+/**
+ * @author Cagri Toraman
+ * cagritoraman@gmail.com
+ */
+ 
 import numpy as np
 from sklearn.metrics import mean_squared_error
 import matplotlib.pyplot as plt
